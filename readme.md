@@ -106,7 +106,7 @@ Jenkins o GitHub Actions: Para integrar pruebas automatizadas en pipelines de CI
 Herramientas de monitoreo:
 New Relic o Datadog: Para monitorear el rendimiento en producción.
 
-##QA en un Stack Tecnológico 
+## QA en un Stack Tecnológico 
 El QA interactúa con el stack tecnológico en varios niveles:
 Frontend: Prueban la interfaz de usuario (HTML, CSS, JavaScript) para asegurar que sea funcional y visualmente consistente. Por ejemplo, verifican que el diseño responsivo (CSS) funcione en diferentes dispositivos.
 Backend: Prueban APIs, lógica del servidor y bases de datos para garantizar que los datos se procesen correctamente.
