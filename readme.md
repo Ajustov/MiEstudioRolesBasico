@@ -6,7 +6,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 
 0. José Jiménez - josej@unsa.edu.pe  
 1. Luis  
-2. Pedro  
+2. Jonnier Angel Condori Catasi   
 3. María  
 ...  
 12. 
