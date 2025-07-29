@@ -84,8 +84,50 @@ Pruebas de seguridad:
 Detectan vulnerabilidades, como inyecciones SQL o problemas de autenticación.
 Pruebas de compatibilidad:
 Aseguran que el software funcione en diferentes dispositivos, navegadores y sistemas operativos.
+
+Herramientas Utilizadas en QA
+El stack tecnológico de un QA incluye herramientas para pruebas manuales, automatizadas y gestión de proyectos. Algunas de las más comunes son:
+Herramientas de pruebas manuales:
+TestRail: Para gestionar casos de prueba.
+Jira: Para reportar y seguir bugs.
+Trello o Asana: Para organizar tareas de QA.
+Herramientas de pruebas qautomatizadas:
+Selenium: Para automatizar pruebas en navegadores web.
+Cypress: Framework moderno para pruebas de aplicaciones web.
+Appium: Para pruebas automatizadas en aplicaciones móviles.
+Postman: Para pruebas de APIs.
+JUnit o TestNG: Para pruebas unitarias en Java.
+Herramientas de pruebas de rendimiento:
+JMeter: Para pruebas de carga y estrés.
+LoadRunner: Para pruebas de rendimiento a gran escala.
+Herramientas de gestión de código y CI/CD:
+Git: Para control de versiones.
+Jenkins o GitHub Actions: Para integrar pruebas automatizadas en pipelines de CI/CD.
+Herramientas de monitoreo:
+New Relic o Datadog: Para monitorear el rendimiento en producción.
+QA en un Stack Tecnológico 
+El QA interactúa con el stack tecnológico en varios niveles:
+Frontend: Prueban la interfaz de usuario (HTML, CSS, JavaScript) para asegurar que sea funcional y visualmente consistente. Por ejemplo, verifican que el diseño responsivo (CSS) funcione en diferentes dispositivos.
+Backend: Prueban APIs, lógica del servidor y bases de datos para garantizar que los datos se procesen correctamente.
+Integración: Aseguran que el frontend y el backend se comuniquen sin problemas.
+Infraestructura: Evalúan el rendimiento y la escalabilidad en entornos como AWS o Docker.
+Por ejemplo, en un stack MERN (MongoDB, Express.js, React, Node.js):
+El QA probaría los componentes de React (que usan HTML y CSS) para verificar la interfaz.
+Usaría Postman para probar las APIs de Express.js.
+Comprobaría la integridad de los datos en MongoDB.
+Realizaría pruebas de carga para asegurar que Node.js maneje múltiples usuarios.
+Metodologías de Trabajo en QA
+Tradicional (Cascada): Pruebas al final del desarrollo, estructurada y secuencial. Ideal para proyectos fijos, pero menos flexible.
+Ágil: Pruebas continuas en sprints, colaborativa y adaptable. Perfecta para cambios frecuentes.
+DevOps: Automatización en CI/CD, pruebas rápidas y monitoreo en producción. Alta eficiencia técnica.
+Lean: Enfocada en valor, elimina desperdicios con pruebas rápidas y críticas. Menos estructurada.
+Shift-Left: Pruebas desde el diseño para detectar errores temprano. Reduce costos iniciales.
+Shift-Right: Monitoreo y pruebas en producción para calidad a largo plazo. Requiere infraestructura robusta.
+
 ## 9) Links recomendados para capacitación Rol QA
 - https://platzi.com/cursos/pruebas-software/
+- https://softwaretestingfundamentals.com/
+- https://www.youtube.com/c/TheTestingAcademy
 ## 10) Desarrollador Android
 
 ## 11) Links recomendados para capacitación Rol Android
