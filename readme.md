@@ -85,7 +85,7 @@ Detectan vulnerabilidades, como inyecciones SQL o problemas de autenticación.
 Pruebas de compatibilidad:
 Aseguran que el software funcione en diferentes dispositivos, navegadores y sistemas operativos.
 
-Herramientas Utilizadas en QA
+## Herramientas Utilizadas en QA
 El stack tecnológico de un QA incluye herramientas para pruebas manuales, automatizadas y gestión de proyectos. Algunas de las más comunes son:
 Herramientas de pruebas manuales:
 TestRail: Para gestionar casos de prueba.
@@ -105,7 +105,8 @@ Git: Para control de versiones.
 Jenkins o GitHub Actions: Para integrar pruebas automatizadas en pipelines de CI/CD.
 Herramientas de monitoreo:
 New Relic o Datadog: Para monitorear el rendimiento en producción.
-QA en un Stack Tecnológico 
+
+##QA en un Stack Tecnológico 
 El QA interactúa con el stack tecnológico en varios niveles:
 Frontend: Prueban la interfaz de usuario (HTML, CSS, JavaScript) para asegurar que sea funcional y visualmente consistente. Por ejemplo, verifican que el diseño responsivo (CSS) funcione en diferentes dispositivos.
 Backend: Prueban APIs, lógica del servidor y bases de datos para garantizar que los datos se procesen correctamente.
