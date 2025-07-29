@@ -6,7 +6,8 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 
 0. Justo Vilca Alessandro Josue ajustov@unsa.edu.pe
 2. Jonnier Angel Condori Catasi   
-3. María  
+3. José Carlos Valencia Vilcas jvalenciavi@unsa.edu.pe
+
 ...  
 12. 
 
@@ -26,17 +27,42 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
 **Roles básicos en el desarrollo de aplicaciones web y aplicación móvil**
 
 ## 4) Desarrollador Frontend
-- Descripción del rol  
-- Habilidades requeridas  
-- Relación con roles de backend, QA, Desarrollador Android  
+- Descripción del rol
+Un desarrollador frontend es un profesional encargado de crear la parte visual e interactiva de una aplicación web o móvil, es decir, todo lo que el usuario ve y con lo que interactúa directamente en el navegador. Su trabajo consiste en traducir los diseños proporcionados por diseñadores UI/UX en código funcional utilizando tecnologías como HTML, CSS y JavaScript, además de frameworks modernos como React, Angular o Vue.js.
+- Habilidades requeridas
+  Atención al detalle: pixel perfect en diseño.
+  Pensamiento lógico y estructurado: para resolver problemas visuales y funcionales.
+  Comunicación efectiva: con diseñadores, backend y otros stakeholders.
+  Trabajo en equipo: colaborar en entornos ágiles.
+  Adaptabilidad y aprendizaje continuo: nuevas herramientas, frameworks y mejores prácticas.
+  Gestión del tiempo y organización: para cumplir plazos y manejar múltiples tareas. 
+- Relación con roles de backend, QA, Desarrollador Android
+Backend Developer: Es quien desarrolla la lógica del servidor y las bases de datos. El frontend se comunica con el backend a través de APIs para obtener o enviar datos. Ambos deben coordinarse para que la información fluya correctamente y la aplicación funcione bien.
+QA: Es quien prueba que la aplicación funcione sin errores. Trabaja con el frontend para asegurarse de que todo se vea y funcione como debe: botones, formularios, navegación, etc. También reporta fallos que el frontend debe corregir.
+Desarrollador Android: Crea la versión móvil de la aplicación para Android. Aunque usa otras herramientas, su objetivo es similar al del frontend: que el usuario tenga una buena experiencia. Ambos deben mantener coherencia en el diseño y compartir datos desde el mismo backend.
 - Stack tecnológico:  
-  - Lenguajes  
+  - Lenguajes
+    HTML5: para estructurar el contenido de las páginas web.
+  CSS3: para el diseño visual, estilos, colores, fuentes, etc.
+  JavaScript (ES6+): para la interactividad, animaciones, validaciones, entre otras funciones dinámicas.
   - Frameworks  
-
+    Frameworks/Librerías JavaScript:
+        React.js: muy usado para construir interfaces interactivas con componentes reutilizables.
+        Vue.js: fácil de aprender y muy flexible.
+        Angular: más completo y estructurado, usado en proyectos grandes
+    Frameworks de estilo (CSS):
+        Bootstrap: facilita el diseño responsivo y componentes listos para usar.
+        Tailwind CSS: ofrece clases utilitarias para construir diseños desde cero con más control.
+        Sass o Less: preprocesadores CSS que permiten escribir estilos más organizados.
 ## 5) Links recomendados para capacitación Rol Frontend
 
-🔹 **Sin certificaciones**:  
-🔹 **Con certificación**:  
+🔹 **Sin certificaciones**: 
+- https://developer.mozilla.org/es/
+- https://www.w3schools.com/
+🔹 **Con certificación**:
+- https://www.w3schools.com/
+- https://www.coursera.org/google-career-certificates
+- https://www.udemy.com/  
 🔹 **Proyectos completos de ejemplo**:  
 🔹 **Recomendadas por líderes (Microsoft, AWS, Google)**:  
 
