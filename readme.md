@@ -34,7 +34,7 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
   - Frameworks  
 
 ## 5) Links recomendados para capacitación Rol Frontend
-*(Separados por criterios)*  
+
 🔹 **Sin certificaciones**:  
 🔹 **Con certificación**:  
 🔹 **Proyectos completos de ejemplo**:  
