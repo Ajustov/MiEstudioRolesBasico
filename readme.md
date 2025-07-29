@@ -4,8 +4,7 @@
 https://docs.github.com/es/get-started/start-your-journey/git-and-github-learning-resources
 ## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio *(actualizar)*
 
-0. José Jiménez - josej@unsa.edu.pe  
-1. Luis  
+0. Justo Vilca Alessandro Josue ajustov@unsa.edu.pe
 2. Jonnier Angel Condori Catasi   
 3. María  
 ...  
@@ -47,9 +46,46 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
 ## 7) Links recomendados para capacitación Rol Backend
 
 ## 8) Rol QA
-
+¿Qué es QA?
+El Quality Assurance es un conjunto de procesos, técnicas y actividades diseñadas para verificar que un software o producto tecnológico cumpla con los requisitos establecidos, funcione correctamente y proporcione una buena experiencia al usuario. A diferencia del control de calidad (QC), que se centra en detectar defectos en el producto terminado, el QA se enfoca en prevenir defectos durante todo el ciclo de desarrollo.
+El QA puede aplicarse a:
+Software (aplicaciones web, móviles, de escritorio).
+Sistemas embebidos.
+Productos digitales en general.
+Responsabilidades de un QA
+Un profesional de QA (ingeniero o tester de QA) tiene varias responsabilidades, que incluyen:
+Definición de estándares de calidad: Establecer criterios claros para determinar si el software es aceptable (funcionalidad, rendimiento, seguridad, etc.).
+Planificación de pruebas: Diseñar planes de pruebas que cubran todos los aspectos del software, como pruebas funcionales, de rendimiento, de seguridad, de usabilidad, etc.
+Ejecución de pruebas:
+Pruebas manuales: Probar la aplicación interactuando con ella como lo haría un usuario.
+Pruebas automatizadas: Escribir scripts para automatizar pruebas repetitivas.
+Identificación y reporte de bugs: Documentar errores o fallos en herramientas como Jira, Trello o Bugzilla, proporcionando información detallada para que los desarrolladores los corrijan.
+Colaboración con equipos: Trabajar con desarrolladores, gerentes de producto y diseñadores para alinear el producto con los requisitos del cliente.
+Validación de requisitos: Asegurarse de que el software cumple con los requerimientos funcionales y no funcionales establecidos.
+Pruebas de regresión: Verificar que las nuevas funcionalidades o correcciones no afecten negativamente las partes existentes del software.
+Monitoreo continuo: En entornos ágiles, el QA puede participar en revisiones continuas durante el desarrollo.
+Tipos de Pruebas en QA
+El QA abarca diferentes tipos de pruebas, dependiendo del objetivo:
+Pruebas funcionales:
+Verifican que el software cumpla con las funcionalidades especificadas.
+Ejemplo: Comprobar que un botón de "enviar" en un formulario funciona correctamente.
+Pruebas no funcionales:
+Evalúan aspectos como rendimiento, escalabilidad, seguridad y usabilidad.
+Ejemplo: Medir el tiempo de carga de una página web.
+Pruebas de regresión:
+Aseguran que los cambios no rompan funcionalidades existentes.
+Pruebas de integración:
+Verifican que los diferentes módulos o componentes del software funcionen juntos.
+Pruebas de carga y estrés:
+Evalúan el comportamiento del sistema bajo alta demanda o condiciones extremas.
+Pruebas de usabilidad:
+Evalúan si la interfaz es intuitiva y fácil de usar.
+Pruebas de seguridad:
+Detectan vulnerabilidades, como inyecciones SQL o problemas de autenticación.
+Pruebas de compatibilidad:
+Aseguran que el software funcione en diferentes dispositivos, navegadores y sistemas operativos.
 ## 9) Links recomendados para capacitación Rol QA
-
+- https://platzi.com/cursos/pruebas-software/
 ## 10) Desarrollador Android
 
 ## 11) Links recomendados para capacitación Rol Android
