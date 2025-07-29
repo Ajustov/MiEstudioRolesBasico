@@ -7,6 +7,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 0. Justo Vilca Alessandro Josue ajustov@unsa.edu.pe
 2. Jonnier Angel Condori Catasi   
 3. José Carlos Valencia Vilcas jvalenciavi@unsa.edu.pe
+4. Lerma Ccopa Jhonatan Javier
 
 ...  
 12. 
@@ -211,9 +212,19 @@ Shift-Right: Monitoreo y pruebas en producción para calidad a largo plazo. Requ
 - https://softwaretestingfundamentals.com/
 - https://www.youtube.com/c/TheTestingAcademy
 ## 10) Desarrollador Android
+¿Que es?
+proceso de creación de aplicaciones para dispositivos que utilizan el sistema operativo móvil Android. Este proceso implica la programación, diseño, prueba y lanzamiento de aplicaciones utilizando herramientas y lenguajes específicos.
+Tipos de aplicaciones android:
+Aplicaciones Nativas:
+Se desarrollan específicamente para una plataforma utilizando lenguajes y herramientas nativas . Ofrecen el mejor rendimiento y acceso completo al hardware del dispositivo, pero requieren desarrollo separado para cada plataforma (Android e iOS). 
+Aplicaciones Híbridas:
+Se construyen con tecnologías web (HTML, CSS, JavaScript) pero se ejecutan dentro de un contenedor nativo, permitiendo que se instalen en dispositivos móviles y se comporten como aplicaciones nativas. Son más rápidas y económicas de desarrollar, con código compartido entre plataformas, pero pueden tener menor rendimiento y acceso limitado a algunas funciones del dispositivo. 
+Aplicaciones Web:
+Son sitios web optimizados para dispositivos móviles, accesibles a través de un navegador web. No se instalan en el dispositivo y se ejecutan directamente en la web. Son multiplataforma y fáciles de actualizar, pero pueden tener problemas de rendimiento y acceso limitado a funciones del dispositivo. 
 
 ## 11) Links recomendados para capacitación Rol Android
-
+-https://platzi.com/ruta/desarrollo-android/
+-https://www.youtube.com/@NetNinja
 ## 12) Pasos a Desarrollar  
 1. **Integrante 0** crea repositorio remoto: `EstudioRolesBasicos`  
 2. Compartir el repositorio con compañeros:  
