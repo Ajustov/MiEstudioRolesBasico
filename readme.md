@@ -8,7 +8,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 2. Jonnier Angel Condori Catasi   
 3. José Carlos Valencia Vilcas jvalenciavi@unsa.edu.pe
 4. Lerma Ccopa Jhonatan Javier
-
+5. Sebastian Colen Bernal Neyra
 ...  
 12. 
 
@@ -126,6 +126,15 @@ Desarrollador Android: Crea la versión móvil de la aplicación para Android. A
     - Framework moderno, sencillo y muy usado para desarrollar aplicaciones web robustas.
 
 ## 7) Links recomendados para capacitación Rol Backend
+- Sin certificaciones
+- https://www.pildorasinformaticas.es/course/php-mysql/
+- Con certificaciones
+- https://www.classcentral.com/course/freecodecamp-back-end-development-and-apis-34063
+- https://www.udemy.com/course/curso-experto-en-backend/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Beta_Prof_la.ES_cc.ROW-Spanish&campaigntype=Search&portfolio=ROW-Spanish&language=ES&product=Course&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_167955697431_._ad_706510832628_._kw__._de_c_._dm__._pl__._ti_dsa-2061826739417_._li_9186215_._pd__._&matchtype=&gad_source=1&gad_campaignid=21487757253&gbraid=0AAAAADROdO2nBYVVszGPLASy4nHJTqdC5&gclid=CjwKCAjwv5zEBhBwEiwAOg2YKDNFROfClEaPSL8mfFGZ1kQeNU0Aorhmg_OosukNWhgFJmD7RlboRhoC94oQAvD_BwE&couponCode=PMNVD3025
+- https://cursa.app/es/curso-gratis/creando-api-usando-nodejs-bedh
+- https://www.coursera.org/professional-certificates/meta-back-end-developer
+- Recomendadas por líderes (Microsoft, AWS, Google)
+- https://www.udemy.com/course/backend-servicios-web-y-servicios-windows-con-c-net/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Beta_Prof_la.ES_cc.ROW-Spanish&campaigntype=Search&portfolio=ROW-Spanish&language=ES&product=Course&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_167955697871_._ad_706510832781_._kw__._de_c_._dm__._pl__._ti_dsa-2061826749537_._li_9186215_._pd__._&matchtype=&gad_source=1&gad_campaignid=21487757253&gbraid=0AAAAADROdO2nBYVVszGPLASy4nHJTqdC5&gclid=CjwKCAjwv5zEBhBwEiwAOg2YKA-BMmv1p-2hqHZHRcheT8wnBJNaYzABSuEB7NAlNu64QPgoInZZFxoCELMQAvD_BwE&couponCode=PMNVD3025
 
 ## 8) Rol QA
 ¿Qué es QA?
