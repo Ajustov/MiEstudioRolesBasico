@@ -89,7 +89,40 @@ Desarrollador Android: Crea la versión móvil de la aplicación para Android. A
 🔹 **Recomendadas por líderes (Microsoft, AWS, Google)**:  
 
 ## 6) Desarrollador Backend
-*(Estructura similar a Frontend)*
+- El rol de Backend se encarga del desarrollo de la lógica del servidor, el manejo de datos, autenticación, seguridad y comunicación con bases de datos. Es responsable de que las funcionalidades de la aplicación   funcionen correctamente desde el lado oculto al usuario.
+- Habilidades requeridas:
+  - Manejo de lenguajes como JavaScript (Node.js), Python, Java, etc.
+  - Uso de frameworks web (Express, Django, Spring, etc.)
+  - Conexión y diseño de bases de datos (SQL y NoSQL)
+  - Desarrollo y consumo de APIs (REST, GraphQL)
+  - Control de versiones (Git)
+  - Manejo de autenticación y seguridad
+  - Pruebas y manejo de errores del servidor
+- El Frontend se encarga de mostrar los datos que el Backend procesa y entrega.
+- El QA también prueba las funcionalidades del Backend, especialmente la lógica de negocio, las respuestas del servidor y la integridad de los datos.
+- Stack tecnológico:
+  - Lenguajes:
+    - JavaScript (Node.js)
+      - Popular por su eficiencia y compatibilidad con el stack full JavaScript.
+    - Python
+      - Usado en servidores rápidos, APIs y machine learning.
+    - Java
+      - Robusto, usado en aplicaciones empresariales a gran escala.
+    - PHP
+      - Ampliamente usado en la web, especialmente con WordPress.
+    - Go
+      - Lenguaje moderno y rápido, ideal para microservicios y sistemas concurrentes.
+- Frameworks:
+  - Express.js (Node.js)
+    - Minimalista y rápido, ideal para crear APIs RESTful en JavaScript.
+  - Django (Python)
+    - Framework completo con ORM, seguridad, y administración incluida.
+  - Flask (Python)
+    - Más ligero que Django, usado para APIs pequeñas o microservicios.
+  - Spring Boot (Java).
+    - Potente framework empresarial con fuerte soporte para bases de datos, seguridad y escalabilidad.
+  - Laravel (PHP)
+    - Framework moderno, sencillo y muy usado para desarrollar aplicaciones web robustas.
 
 ## 7) Links recomendados para capacitación Rol Backend
 
