@@ -9,6 +9,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 3. José Carlos Valencia Vilcas jvalenciavi@unsa.edu.pe
 4. Lerma Ccopa Jhonatan Javier
 5. Sebastian Colen Bernal Neyra
+6. Zavala Bernedo Raúl Gabriel
 ...  
 12. 
 
